@@ -2,7 +2,7 @@ const ligarButton = document.getElementById('ligarButton');
 const desligarButton = document.getElementById('desligarButton');
 const restartButton = document.getElementById('restartButton');
 
-var urlPost = 'https://lean-web.onrender.com/'
+var urlPost = 'https://leanweb.onrender.com/'
 
 ligarButton.addEventListener('click', () => {
     let requestData = {"liga": 1, "desliga": 0, "restart": 0}

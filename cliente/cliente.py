@@ -17,7 +17,7 @@ GPIO.setup(22, GPIO.OUT) #auto
 GPIO.setup(10, GPIO.OUT) #man
 
 # erl usada para buscar os dados dos botões
-urlGet = 'https://plantalean.onrender.com/'
+urlGet = 'https://leanweb.onrender.com/'
 
 # criar algumas variáveis com valor inicial igual a 0
 liga = 0
