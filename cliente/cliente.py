@@ -20,9 +20,9 @@ GPIO.setup(10, GPIO.OUT) #man
 urlGet = 'https://leanweb.onrender.com/'
 
 # criar algumas variáveis com valor inicial igual a 0
-liga = 0
-man = 0
-auto = 0
+liga = 27
+auto = 22
+man = 10
 liga_ = 0
 desliga_ = 0
 restart_ = 0
